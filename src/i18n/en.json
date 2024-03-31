@@ -6,8 +6,8 @@
     "TITLE": "Hello there!",
     "TITLE_NAV": "Home",
     "SUBTITLE_NORMAL": "I'm",
-    "SUBTITLE_EMPHASIS": "Marco Cruz",
-    "JOB_TITLE": "Frontend Developer",
+    "SUBTITLE_EMPHASIS": "Anna Smith",
+    "JOB_TITLE": "UI / UX Designer",
     "CV": {
       "BTN_TEXT": "Download CV",
       "FILENAME": "marco-cruz-cv-en.pdf",
@@ -15,7 +15,7 @@
       "ARIA_LABEL": "Download CV of Marco Cruz in english"
     },
     "IMAGE": {
-      "ALT": "Marco Cruz - Frontend Developer"
+      "ALT": "Anna Smith - UI / UX Designer"
     }
   },
   "ABOUT_SECTION": {
