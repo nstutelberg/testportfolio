@@ -13,6 +13,8 @@
       "@data/*": ["src/data/*"],
       "@i18n/*": ["src/i18n/*"],
       "@astrojs/svelte": ["node_modules/@astrojs/svelte"],
-    }
+    },
+    "resolveJsonModule": true,
+    "esModuleInterop": true
   },
 }
